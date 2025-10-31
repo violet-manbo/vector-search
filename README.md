@@ -13,7 +13,6 @@ The covered algorithms include: SONG,CAGRA, GANNS, BANG, GGNN, PilotANN, etc.
 │   ├── BANG/
 │   ├── ggnn/
 │   └── pilotann/
-├── config.json             # Experimental parameter configuration file
 ├── scripts/             # Running scripts           
 └── README.md
  ```
@@ -57,8 +56,6 @@ Different algorithms have different build and execution pipelines:
 | **BANG** | Requires compilation | `bash scripts/run_bang.sh` |
 | **PilotANN** | Python scripts | `bash scripts/run_pilot.sh` |
 
-### Build Parameters
-All the construction parameters for the algorithms are listed in the folder config.
 
 ### Search
 We launch the experiments by using the scripts in the folder Scrpits.
