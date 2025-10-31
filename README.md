@@ -5,6 +5,7 @@ This repository conducts unified testing and comparison of various GPU-based gra
 The covered algorithms include: SONG,CAGRA, GANNS, BANG, GGNN, PilotANN, etc.
 
 ## Repository Structure
+```
 ├── algorithms/          # Installation of algorithms
 │   ├── song/
 │   ├── cagra/
@@ -16,7 +17,7 @@ The covered algorithms include: SONG,CAGRA, GANNS, BANG, GGNN, PilotANN, etc.
 ├── scripts/             # Running scripts
 ├── result/              # Results of all algorithms              
 └── README.md
- 
+ ```
 
 ## Environment
 * CUDA version >= 11.8
