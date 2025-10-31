@@ -13,9 +13,8 @@ The covered algorithms include: SONG,CAGRA, GANNS, BANG, GGNN, PilotANN, etc.
 │   ├── BANG/
 │   ├── ggnn/
 │   └── pilotann/
-├── configs/             # Experimental parameter configuration file
-├── scripts/             # Running scripts
-├── result/              # Results of all algorithms              
+├── config.json             # Experimental parameter configuration file
+├── scripts/             # Running scripts           
 └── README.md
  ```
 
